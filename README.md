@@ -12,7 +12,7 @@ ReactJS - Application used to find repositories in GitHub, developed at Rocketse
 
 Technologies that I used to develop this web client
 
-- [React Native](https://reactnative.dev/)
+- [React.JS](https://pt-br.reactjs.org/)
 - [React Router Dom](https://www.npmjs.com/package/react-router-dom)
 - [Styled Components](https://styled-components.com/)
 - [Axios](https://axios-http.com/docs/intro)
